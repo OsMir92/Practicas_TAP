@@ -1,0 +1,30 @@
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojAssemblyReference.cache
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Form1.resources
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojAssemblyReference.cache
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Form1.resources
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\Oromir\Desktop\Practicas_TAP\001\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Form1.resources
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\PC\Desktop\Practica 1\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
