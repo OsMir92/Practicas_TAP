@@ -1,0 +1,20 @@
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).csprojAssemblyReference.cache
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica_2__Tic_Tac_Toe_.Form1.resources
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica_2__Tic_Tac_Toe_.Properties.Resources.resources
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).csproj.GenerateResource.cache
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).csproj.CoreCompileInputs.cache
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\bin\Debug\Practica 2 (Tic Tac Toe).exe.config
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\bin\Debug\Practica 2 (Tic Tac Toe).exe
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\bin\Debug\Practica 2 (Tic Tac Toe).pdb
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).exe
+C:\Users\mikar\Documents\Visual Studio 2017\Projects\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).pdb
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\bin\Debug\Practica 2 (Tic Tac Toe).exe.config
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\bin\Debug\Practica 2 (Tic Tac Toe).exe
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\bin\Debug\Practica 2 (Tic Tac Toe).pdb
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).csprojAssemblyReference.cache
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica_2__Tic_Tac_Toe_.Form1.resources
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica_2__Tic_Tac_Toe_.Properties.Resources.resources
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).csproj.GenerateResource.cache
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).csproj.CoreCompileInputs.cache
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).exe
+C:\Users\Oromir\Desktop\Practicas_TAP\002\Practica 2 (Tic Tac Toe)\Practica 2 (Tic Tac Toe)\obj\Debug\Practica 2 (Tic Tac Toe).pdb
