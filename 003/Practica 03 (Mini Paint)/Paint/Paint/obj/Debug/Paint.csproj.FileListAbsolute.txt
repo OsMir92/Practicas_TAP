@@ -1,0 +1,40 @@
+C:\Users\Oromir\Documents\TAP\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Oromir\Documents\TAP\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Oromir\Documents\TAP\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Oromir\Documents\TAP\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\Oromir\Documents\TAP\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\Oromir\Documents\TAP\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Oromir\Documents\TAP\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Oromir\Documents\TAP\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Oromir\Documents\TAP\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Oromir\Documents\TAP\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Oromir\Desktop\Practicas_TAP\003\Practica 03 (Mini Paint)\Paint\Paint\obj\Debug\Paint.pdb

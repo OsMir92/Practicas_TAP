@@ -1,0 +1,20 @@
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\bin\Release\Paint.exe.config
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\bin\Release\Paint.exe
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\bin\Release\Paint.pdb
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Release\Paint.csprojAssemblyReference.cache
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Release\Paint.Form1.resources
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Release\Paint.Properties.Resources.resources
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Release\Paint.csproj.GenerateResource.cache
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Release\Paint.csproj.CoreCompileInputs.cache
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Release\Paint.exe
+C:\Users\SergioG\Documents\Visual Studio 2017\Projects\Paint\Paint\obj\Release\Paint.pdb
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\bin\Release\Paint.exe.config
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\bin\Release\Paint.exe
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\bin\Release\Paint.pdb
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Release\Paint.csprojAssemblyReference.cache
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Release\Paint.Form1.resources
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Release\Paint.Properties.Resources.resources
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Release\Paint.csproj.GenerateResource.cache
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Release\Paint.csproj.CoreCompileInputs.cache
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Release\Paint.exe
+C:\Users\mikar\Desktop\Practica 03\Paint\Paint\obj\Release\Paint.pdb

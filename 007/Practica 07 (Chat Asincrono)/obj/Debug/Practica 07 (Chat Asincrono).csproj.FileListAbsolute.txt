@@ -1,0 +1,10 @@
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\bin\Debug\Practica 07 (Chat Asincrono).exe.config
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\bin\Debug\Practica 07 (Chat Asincrono).exe
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\bin\Debug\Practica 07 (Chat Asincrono).pdb
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\obj\Debug\Practica 07 (Chat Asincrono).csprojAssemblyReference.cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\obj\Debug\Practica_07__Chat_Asincrono_.Form1.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\obj\Debug\Practica_07__Chat_Asincrono_.Properties.Resources.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\obj\Debug\Practica 07 (Chat Asincrono).csproj.GenerateResource.cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\obj\Debug\Practica 07 (Chat Asincrono).csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\obj\Debug\Practica 07 (Chat Asincrono).exe
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 07 (Chat Asincrono)\Practica 07 (Chat Asincrono)\obj\Debug\Practica 07 (Chat Asincrono).pdb

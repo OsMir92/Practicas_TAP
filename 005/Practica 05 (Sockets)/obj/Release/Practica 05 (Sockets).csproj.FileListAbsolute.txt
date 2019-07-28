@@ -1,0 +1,11 @@
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\bin\Release\Practica 05 (Sockets).exe.config
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\bin\Release\Practica 05 (Sockets).exe
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\bin\Release\Practica 05 (Sockets).pdb
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\bin\Release\IPAddressControlLib.dll
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\obj\Release\Practica_05__Sockets_.Form1.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\obj\Release\Practica_05__Sockets_.Properties.Resources.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\obj\Release\Practica 05 (Sockets).csproj.GenerateResource.cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\obj\Release\Practica 05 (Sockets).csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\obj\Release\Practica 05 (Sockets).csproj.CopyComplete
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\obj\Release\Practica 05 (Sockets).exe
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Practica 05 (Sockets)\Practica 05 (Sockets)\obj\Release\Practica 05 (Sockets).pdb
